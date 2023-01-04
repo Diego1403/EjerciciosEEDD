@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_GESTORMEMORIA_H
+#define EJERCICIOSEEDD_GESTORMEMORIA_H
+
+
+class GestorMemoria {
+
+};
+
+
+#endif //EJERCICIOSEEDD_GESTORMEMORIA_H

@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_BLOQUEASIGNADO_H
+#define EJERCICIOSEEDD_BLOQUEASIGNADO_H
+
+
+class BloqueAsignado {
+
+};
+
+
+#endif //EJERCICIOSEEDD_BLOQUEASIGNADO_H

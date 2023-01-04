@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_CARTELINFORMATIVO_H
+#define EJERCICIOSEEDD_CARTELINFORMATIVO_H
+
+
+class CartelInformativo {
+
+};
+
+
+#endif //EJERCICIOSEEDD_CARTELINFORMATIVO_H

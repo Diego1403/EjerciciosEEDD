@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_UJACOINMINER_H
+#define EJERCICIOSEEDD_UJACOINMINER_H
+
+
+class UJACoinMiner {
+
+};
+
+
+#endif //EJERCICIOSEEDD_UJACOINMINER_H

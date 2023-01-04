@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_PARKINGCONTROL_H
+#define EJERCICIOSEEDD_PARKINGCONTROL_H
+
+
+class ParkingControl {
+
+};
+
+
+#endif //EJERCICIOSEEDD_PARKINGCONTROL_H

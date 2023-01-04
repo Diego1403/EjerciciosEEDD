@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_BLOQUETRANSACCIONES_H
+#define EJERCICIOSEEDD_BLOQUETRANSACCIONES_H
+
+
+class BloqueTransacciones {
+
+};
+
+
+#endif //EJERCICIOSEEDD_BLOQUETRANSACCIONES_H

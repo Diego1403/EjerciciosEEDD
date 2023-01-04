@@ -14,3 +14,13 @@ ResolucionExamenes/2020_Enero/ene2020_1.jpg
 ResolucionExamenes/2020_Enero/ene2020_2.jpg
 ResolucionExamenes/2021_Enero/WhatsApp Image 2021-01-29 at 09.07.53.jpeg
 ResolucionExamenes/2021_Enero/WhatsApp Image 2021-01-29 at 09.08.53.jpeg
+
+*.pdf
+*.jpg
+*.jpeg
+/cmake-build-debug/
+
+CMakeLists.txt
+main.cpp
+
+/ResolucionExamenes/.idea/

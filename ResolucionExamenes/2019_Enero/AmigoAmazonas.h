@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef EJERCICIOSEEDD_AMIGOAMAZONAS_H
+#define EJERCICIOSEEDD_AMIGOAMAZONAS_H
+
+
+class AmigoAmazonas {
+
+};
+
+
+#endif //EJERCICIOSEEDD_AMIGOAMAZONAS_H

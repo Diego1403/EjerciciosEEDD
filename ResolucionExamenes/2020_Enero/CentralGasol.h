@@ -1,0 +1,14 @@
+//
+// Created by Diego on 04/01/2023.
+//
+
+#ifndef RESOLUCIONEXAMENES_CENTRALGASOL_H
+#define RESOLUCIONEXAMENES_CENTRALGASOL_H
+
+
+class CentralGasol {
+
+};
+
+
+#endif //RESOLUCIONEXAMENES_CENTRALGASOL_H
